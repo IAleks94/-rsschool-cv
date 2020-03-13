@@ -10,7 +10,10 @@ I combine Front-and study and work as a surveyor. I want to gain experience befo
 
 ## Skils: 
 
-JavaScript, HTML and CSS (some React)
+* JavaScript
+* HTML
+* CSS
+* some React
 
 ## Code example: 
 
@@ -20,4 +23,16 @@ JavaScript, HTML and CSS (some React)
 
 ## Experience:
 
-I have been working in the construction industry as a Surveyor for over 4 years. I decided to change my profession and have been studying Front-and for 5 months now. I read [learn.javascript](https://learn.javascript.ru/) and regularly return to it. Completed courses [htmlacademy](https://htmlacademy.ru/) ( [profile](https://htmlacademy.ru/profile/id1289405) )
+I have been working in the construction industry as a Surveyor for over 4 years. I decided to change my profession and have been studying Front-and for 5 months now.
+
+## Education:
+
+Graduated from Brest State College and Brest State Technical University (industrial and civil construction).
+
+I read [learn.javascript](https://learn.javascript.ru/) and regularly return to it. Completed courses [htmlacademy](https://htmlacademy.ru/) ( [profile](https://htmlacademy.ru/profile/id1289405) ).
+
+## Englesh:
+
+  A1
+
+  > This is not enough, but I try to raise the level, I study in the Duolingo application (I overcame the 4th line).
