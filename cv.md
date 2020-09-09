@@ -31,7 +31,7 @@ Graduated from Brest State College and Brest State Technical University (industr
 
 I read [learn.javascript](https://learn.javascript.ru/) and regularly return to it. Completed courses [htmlacademy](https://htmlacademy.ru/) ( [profile](https://htmlacademy.ru/profile/id1289405) ).
 
-## Englesh:
+## English:
 
   A1
 
